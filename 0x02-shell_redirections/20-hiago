@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Chicago | tr -d cC
+cat /dev/stdin | tr -d cC
