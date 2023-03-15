@@ -1,9 +1,15 @@
-0-hello_world
-1-confused_smiley
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-readme
-README.md
+total 44
+drwxr-xr-x 2 root root 248 Mar 15 10:51 .
+drwxr-xr-x 6 root root 146 Mar 14 21:07 ..
+-rwxr--r-- 1 root root  32 Mar 14 23:44 0-hello_world
+-rwxr--r-- 1 root root  31 Mar 15 00:15 1-confused_smiley
+-rwxr--r-- 1 root root  28 Mar 15 00:28 2-hellofile
+-rwxr--r-- 1 root root  39 Mar 15 00:52 3-twofiles
+-rwxr--r-- 1 root root  35 Mar 15 04:09 4-lastlines
+-rwxr--r-- 1 root root  35 Mar 15 04:19 5-firstlines
+-rwxr--r-- 1 root root  36 Mar 15 05:13 6-third_line
+-rwxr--r-- 1 root root  37 Mar 15 10:51 8-cwd_state
+-rwxr--r-- 1 root root  37 Mar 15 10:48 9-duplicate_last_line
+-rw-r--r-- 1 root root   0 Mar 15 10:52 readme
+-rw-r--r-- 1 root root  35 Mar 14 23:47 README.md
+-rw-r--r-- 1 root root 110 Mar 15 09:54 sorted_readme
